@@ -1,10 +1,10 @@
 # basiliskii-vita-imap-files
 imap keymapping files for Basiliskii Vita
 <verbatim>
+```
 Basiliskii Vita input map extended with more keys
    by rsn8887
 
-```
 cursor up = up
 cursor right = right
 cursor down = down
