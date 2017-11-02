@@ -1,5 +1,11 @@
 # basiliskii-vita-imap-files
 imap keymapping files for Basiliskii Vita
+
+To use them, just extract the files over into the ux0:/data/basiliskii/imap folder. Then, in the running emulator, press select to open the menu, use dpad left/right to choose a keymap file, and press x to load the mapping.
+
+Currently, there is only one mapping called "morekeys."
+
+It is far from perfect, but pretty useful to enter a few letters or numbers, or press a key here and there.
 <verbatim>
 ```
 "morekeys" Basiliskii Vita input map extended with more keys
