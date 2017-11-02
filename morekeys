@@ -1,0 +1,134 @@
+# Basiliskii Vita input map extended with more keys
+# 
+#    by rsn8887
+# 
+# 
+# 
+# cursor up = up
+0x0010 0x0308 62 255 255 255
+# cursor right = right
+0x0020 0x0308 60 255 255 255
+# cursor down = down
+0x0040 0x0308 61 255 255 255
+# cursor left = left
+0x0080 0x0308 59 255 255 255
+# backspace = triangle
+0x1000 0x0308 51 255 255 255
+# space = circle
+0x2000 0x0308 49 255 255 255
+# mouse button 0 = cross
+0x4000 0x0308 256 255 255 255
+# enter = square
+0x8000 0x0308 36 255 255 255
+# a = lTrigger+triangle
+0x1100 0x0208 0 255 255 255
+# b = lTrigger+circle
+0x2100 0x0208 11 255 255 255
+# c = lTrigger+cross
+0x4100 0x0208 8 255 255 255
+# d = lTrigger+square
+0x8100 0x0208 2 255 255 255
+# e = lTrigger+up
+0x0110 0x0208 14 255 255 255
+# f = lTrigger+right
+0x0120 0x0208 3 255 255 255
+# g = lTrigger+down
+0x0140 0x0208 5 255 255 255
+# h = lTrigger+left
+0x0180 0x0208 4 255 255 255
+# i = rTrigger+triangle
+0x1200 0x0108 34 255 255 255
+# j = rTrigger+circle
+0x2200 0x0108 38 255 255 255
+# k = rTrigger+cross
+0x4200 0x0108 40 255 255 255
+# l = rTrigger+square
+0x8200 0x0108 37 255 255 255
+# m = rTrigger+up
+0x0210 0x0108 46 255 255 255
+# n = rTrigger+right
+0x0220 0x0108 45 255 255 255
+# o = rTrigger+down
+0x0240 0x0108 31 255 255 255
+# p = rTrigger+left
+0x0280 0x0108 35 255 255 255
+# q = lTrigger+rTrigger+triangle
+0x1300 0x0008 12 255 255 255
+# r = lTrigger+rTrigger+circle
+0x2300 0x0008 15 255 255 255
+# s = lTrigger+rTrigger+cross
+0x4300 0x0008 1 255 255 255
+# t = lTrigger+rTrigger+square
+0x8300 0x0008 17 255 255 255
+# u = lTrigger+rTrigger+up
+0x0310 0x0008 32 255 255 255
+# v = lTrigger+rTrigger+right
+0x0320 0x0008 9 255 255 255
+# w = lTrigger+rTrigger+down
+0x0340 0x0008 13 255 255 255
+# x = lTrigger+rTrigger+left
+0x0380 0x0008 7 255 255 255
+# y = start+triangle
+0x1008 0x0300 16 255 255 255
+# z = start+circle
+0x2008 0x0300 6 255 255 255
+# 1 = start+cross
+0x4008 0x0300 18 255 255 255
+# 2 = start+square
+0x8008 0x0300 19 255 255 255
+# 3 = start+up
+0x0018 0x0300 20 255 255 255
+# 4 = start+right
+0x0028 0x0300 21 255 255 255
+# 5 = start+down
+0x0048 0x0300 23 255 255 255
+# 6 = start+left
+0x0088 0x0300 22 255 255 255
+# 7 = lTrigger+start+triangle
+0x1108 0x0200 26 255 255 255
+# 8 = lTrigger+start+circle
+0x2108 0x0200 28 255 255 255
+# 9 = lTrigger+start+cross
+0x4108 0x0200 25 255 255 255
+# 0 = lTrigger+start+square
+0x8108 0x0200 29 255 255 255
+# tab = lTrigger+start+up
+0x0118 0x0200 48 255 255 255
+# esc = lTrigger+start+right
+0x0128 0x0200 53 255 255 255
+# f1 = lTrigger+start+down
+0x0148 0x0200 122 255 255 255
+# f2 = lTrigger+start+left
+0x0188 0x0200 120 255 255 255
+# f3 = rTrigger+start+triangle
+0x1208 0x0100 99 255 255 255
+# f4 = rTrigger+start+circle
+0x2208 0x0100 118 255 255 255
+# f5 = rTrigger+start+cross
+0x4208 0x0100 96 255 255 255
+# f6 = rTrigger+start+square
+0x8208 0x0100 97 255 255 255
+# f7 = rTrigger+start+up
+0x0218 0x0100 98 255 255 255
+# f8 = rTrigger+start+right
+0x0228 0x0100 100 255 255 255
+# f9 = rTrigger+start+down
+0x0248 0x0100 101 255 255 255
+# f10 = rTrigger+start+left
+0x0288 0x0100 109 255 255 255
+# f11 = lTrigger+rTrigger+start+triangle
+0x1308 0x0000 103 255 255 255
+# f12 = lTrigger+rTrigger+start+circle
+0x2308 0x0000 111 255 255 255
+# , = lTrigger+rTrigger+start+cross
+0x4308 0x0000 43 255 255 255
+# . = lTrigger+rTrigger+start+square
+0x8308 0x0000 47 255 255 255
+# ; = lTrigger+rTrigger+start+up
+0x0318 0x0000 41 255 255 255
+# = = lTrigger+rTrigger+start+right
+0x0328 0x0000 24 255 255 255
+# - = lTrigger+rTrigger+start+down
+0x0348 0x0000 27 255 255 255
+# [ = lTrigger+rTrigger+start+left
+0x0388 0x0000 33 255 255 255
