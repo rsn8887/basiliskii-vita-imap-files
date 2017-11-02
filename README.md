@@ -2,7 +2,7 @@
 imap keymapping files for Basiliskii Vita
 <verbatim>
 ```
-Basiliskii Vita input map extended with more keys
+"morekeys" Basiliskii Vita input map extended with more keys
    by rsn8887
 
 cursor up = up
