@@ -1,9 +1,10 @@
 # basiliskii-vita-imap-files
 imap keymapping files for Basiliskii Vita
-
+<verbatim>
 Basiliskii Vita input map extended with more keys
    by rsn8887
 
+```
 cursor up = up
 cursor right = right
 cursor down = down
@@ -68,3 +69,4 @@ f12 = lTrigger+rTrigger+start+circle
 = = lTrigger+rTrigger+start+right
 - = lTrigger+rTrigger+start+down
 [ = lTrigger+rTrigger+start+left
+```
